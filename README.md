@@ -1,1 +1,1 @@
-# cv6
+# Simon Game
